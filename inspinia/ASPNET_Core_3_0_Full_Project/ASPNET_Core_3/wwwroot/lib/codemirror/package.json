@@ -1908,7 +1908,7 @@
   "description": "Full-featured in-browser code editor",
   "devDependencies": {
     "blint": "^0.5.1",
-    "node-static": "0.6.0",
+    "node-static": "0.7.11",
     "phantomjs-prebuilt": "^2.1.12",
     "rollup": "^0.34.10",
     "rollup-plugin-buble": "^0.14.0",
